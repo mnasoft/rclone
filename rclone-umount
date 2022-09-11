@@ -1,0 +1,4 @@
+#!/bin/bash
+
+umount ~/rclone/db
+umount ~/rclone/od

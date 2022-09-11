@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rclone mount db:/ ~/rclone/db/ --daemon
+rclone mount od:/ ~/rclone/od/ --daemon
